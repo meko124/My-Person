@@ -1,6 +1,6 @@
 # My-Person
-Name: Muhammad Eko Kuswanto.
-Age: 26 years old.
-Hobies: read are book and comic.
+Full Name: Muhammad Eko Kuswanto
+Age: 27 years old
+Hobby: read are books and comics
 Country: Indonesian
 
